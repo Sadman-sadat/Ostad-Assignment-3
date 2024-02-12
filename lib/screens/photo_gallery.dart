@@ -1,7 +1,7 @@
 import 'package:assignment_2/Screens/photo_details.dart';
 import 'package:assignment_2/data/photo_api_service.dart';
 import 'package:flutter/material.dart';
-import '../data/Model/photo_model.dart';
+import '../data/models/photo_model.dart';
 
 class PhotoGalleryListScreen extends StatefulWidget {
   const PhotoGalleryListScreen({super.key});

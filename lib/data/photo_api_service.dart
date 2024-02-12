@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart';
-import 'Model/photo_model.dart';
+import 'models/photo_model.dart';
 
 class PhotoApiService {
   static Future<List<Photo>> getPhotosFromApi() async {

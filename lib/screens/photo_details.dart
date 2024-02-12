@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../data/Model/photo_model.dart';
+import '../data/models/photo_model.dart';
 
 class PhotoDetails extends StatefulWidget {
   const PhotoDetails({super.key, required this.photo});
